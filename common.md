@@ -13,4 +13,7 @@ select * from mysql.user;
 mysql -umysql -p  
 
 # grant privileges to a user
-GRANT ALL ON boardgames.bggdata TO 'mysql'@'localhost';
+GRANT ALL ON boardgames.bggdata TO 'mysql'@'localhost';  
+
+
+sudo easy_install pip  
