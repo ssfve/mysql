@@ -24,7 +24,7 @@ GRANT ALL ON boardgames.* TO 'root'@'114.94.95.222';
 sudo easy_install pip  
 
 # install packages
-pip install mysql-connector
+pip install mysql-connector==2.1.6
 
 # pip mirror
 Linux下，修改 ~/.pip/pip.conf (没有就创建一个)， 修改 index-url至tuna，内容如下：  
