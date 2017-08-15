@@ -1,3 +1,6 @@
+# cmd background
+start /b npm start
+
 # install express.js using node.js
 npm install express -g
 
