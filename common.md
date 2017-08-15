@@ -22,3 +22,6 @@ GRANT ALL ON boardgames.* TO 'mysql'@'114.94.95.222';
 GRANT ALL ON boardgames.* TO 'root'@'114.94.95.222';
 
 sudo easy_install pip  
+
+# install packages
+pip install mysql-connector
