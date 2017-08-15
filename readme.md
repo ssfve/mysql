@@ -25,3 +25,8 @@ sudo easy_install pip
 
 # install packages
 pip install mysql-connector
+
+# pip mirror
+清华: https://pypi.tuna.tsinghua.edu.cn/simple
+豆瓣: http://pypi.douban.com/simple/
+阿里: http://mirrors.aliyun.com/pypi/simple/
