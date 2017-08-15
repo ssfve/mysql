@@ -27,6 +27,11 @@ sudo easy_install pip
 pip install mysql-connector
 
 # pip mirror
+Linux下，修改 ~/.pip/pip.conf (没有就创建一个)， 修改 index-url至tuna，内容如下：  
+ 
+ [global]  
+ index-url = https://pypi.tuna.tsinghua.edu.cn/simple  
+ 
 清华: https://pypi.tuna.tsinghua.edu.cn/simple  
 豆瓣: http://pypi.douban.com/simple/  
 阿里: http://mirrors.aliyun.com/pypi/simple/  
