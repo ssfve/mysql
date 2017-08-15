@@ -1,3 +1,7 @@
+# install express.js using node.js
+npm install express -g
+
+
 # log into mysql on linux  
 mysql -uroot --password='London123!'
 
